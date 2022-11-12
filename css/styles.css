@@ -1,0 +1,322 @@
+body
+{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-image: url('./images/bg-desktop.svg');
+
+}
+
+p
+{
+    margin: 0 0;
+}
+
+img
+{
+    margin: 0 0;
+}
+
+.title
+{
+    padding: 1.5rem 2rem;
+    margin-bottom: 7rem;
+}
+/* Navbar */
+.btn-outline-light
+{
+    position: absolute;
+    border-color: hsl(322, 100%, 66%);
+    color: hsl(322, 100%, 66%);
+    border-radius: 1.5rem;
+    right: 0;
+    top: 1.7rem;
+    padding: 0.3rem 1rem;
+}
+
+.btn-outline-light:hover
+{
+    border-color: hsl(321, 100%, 78%);
+    color: hsl(321, 100%, 78%);    
+}
+
+.logo
+{
+    position: absolute;
+    top: 1.5rem;
+    left: 0;
+}
+
+.top
+{
+    position: relative;
+    height: 6rem;
+} 
+
+.mid
+{
+    position: relative;
+    padding-top: 1.5rem;
+    padding-bottom: 1rem;
+}
+
+.para1
+{
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 3rem;
+    display: inline-block;
+    padding-bottom: 0.3rem;
+}
+
+.para2
+{
+    font-family: 'Open Sans';
+    font-weight: 400;
+    font-size: 1.2rem;
+    margin: 0 30%;
+
+}
+
+.btn-dark
+{
+    background-color: hsl(322, 100%, 66%);
+    margin: 2% 0 6% 0;
+    padding: 0.8rem 5rem;
+    border-radius: 2rem;
+    color: white;
+    font-size: 1.3rem;
+    border-color: transparent;
+    box-shadow: 0px 3px 5px 2px hsl(192deg 100% 9% / 20%);
+}
+
+.btn-dark:hover
+{   
+    background-color: hsl(321, 100%, 78%);
+    border-color: transparent;
+}
+
+.boxx
+{
+    display: inline-block;
+    
+}
+
+.number
+{
+    font-size: 4.5rem;
+    font-family: 'Open Sans';
+    font-weight: 700;
+    color: hsl(192, 100%, 9%);
+}
+
+.communities-img
+{
+    display: block;
+}
+
+.mssg
+{
+    font-size: 1.1rem;
+    text-align: center;
+    color: grey;
+}
+
+.row
+{
+    width: 100%;
+}
+
+.row1
+{
+    margin-top: 3rem;
+}
+
+.row2
+{
+    background-color: hsl(207, 100%, 98%);
+}
+
+.grow-img
+{
+    width: 60%;
+    display: block;
+    position: relative;
+    left: 4rem;
+}
+
+.col-lg-6
+{
+    padding: 0 0;
+}
+
+.groww
+{
+    position: relative;
+}
+
+.grow1
+{
+    width: 65%;
+    text-align: left;
+    position: absolute;
+    left: 11rem;
+    top: 8.4rem;
+    font-size: 2rem;
+    font-family: 'Poppins';
+    font-weight: 700;
+}
+.grow2
+{
+    width: 65%;
+    font-size: 1rem;
+    position: absolute;
+    left: 11rem;
+    top: 11.5rem;
+    text-align: left;
+    font-family: 'Open Sans';
+}
+
+.conv-img
+{
+    width: 60%;
+    display: block;
+    position: relative;
+    left: 11rem;
+}
+
+.convv
+{
+    position: relative;
+}
+
+.conv1
+{
+    width: 70%;
+    text-align: left;
+    position: absolute;
+    top: 8.4rem;
+    left: 2rem;
+    font-size: 2rem;
+    font-family: 'Poppins';
+    font-weight: 700;
+}
+
+.conv2
+{
+    width: 70%;
+    font-size: 1rem;
+    position: absolute;
+    top: 11.5rem;
+    left: 2rem;
+    text-align: left;
+    font-family: 'Open Sans';
+}
+
+.para3
+{
+    font-size: 2rem;
+    font-family: 'Poppins';
+    font-weight: 600;
+}
+.last
+{
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+.footer
+{
+    position: relative;
+    background-color: hsl(192, 100%, 9%);
+    padding-top: 6rem;
+    height: 35rem;
+    margin-bottom: 0;
+}
+.footer-sub
+{
+    width: 20%;
+    position: relative;
+    display: block;
+    text-align: left;
+    left: 13rem;
+}
+.footer-sub2
+{
+    position: relative;
+    display: inline-block;
+    text-align: left;
+    width: 30%;
+    left: 20rem;
+    bottom: 19.6rem;
+}
+.logo2
+{
+    display: block;
+}
+.para4
+{
+    width: 70%;
+    color: white;
+    font-size: 0.8rem;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+.para5
+{
+    color: white;
+    display: inline-block;
+}
+.phone
+{
+    display: inline-block;
+    margin-right: 0.5rem;
+}
+.fa-brands
+{
+    color: white;
+    transform: scale(1.5);
+    padding-right: 1rem;
+    padding-left: 0.5rem;
+}
+.icon
+{
+    margin-top: 4rem;
+}
+.headings
+{
+    font-size: 1.2rem;
+    color: white;
+    font-family: 'Open Sans';
+    font-weight: bold;
+}
+.para6
+{
+    width: 60%;
+    color: white;
+    font-size: 0.8rem;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.subs
+{
+    background-color: hsl(322, 100%, 66%);
+    border-color: transparent;
+    display: inline-block;
+    color: white;
+    border-radius: 0.3rem;
+    padding-inline: 1.8rem;
+    margin-left: 1rem;
+}
+.line
+{
+    line-height: 2.2rem;
+    padding-bottom: 10rem;
+    padding-top: 2rem;
+}
+.email
+{
+    width:17rem;
+}
+
+
+
